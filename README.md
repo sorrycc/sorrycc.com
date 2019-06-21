@@ -2,7 +2,9 @@
 
 ## Hi, I'm sorrycc
 
-My name is ChenCheng (陈成，花名云谦), an engineer at 支付宝. Now I'm working on [umijs](https://umijs.org/) and [dvajs](https://dvajs.com/).
+My name is ChenCheng (陈成，花名云谦), an engineer at 支付宝（淘宝 5 年，支付宝 6 年）. Now I'm working on [umijs](https://umijs.org/) and [dvajs](https://dvajs.com/).
+
+<img src="https://cdn.nlark.com/yuque/0/2019/jpeg/86025/1561088816748-b5e912df-d903-4192-9945-3de666e1c0e7.jpeg" width="300">
 
 Here are a few links that might interest you:
 
