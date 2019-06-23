@@ -29,7 +29,7 @@ You can find more on [GitHub](https://github.com/sorrycc).
 
 ## Talks
 
-* 《蚂蚁金服的前端框架和工程化实践》 @ GMTC 2019 - Coming Soon...
+* [《蚂蚁金服的前端框架和工程化实践》](https://github.com/sorrycc/blog/issues/85) @ GMTC 2019
 * [《蚂蚁金服前端框架探索之路》](https://www.bilibili.com/video/av40319780/) @ SEEConf 2018
 * 《Dva: React 应用框架在蚂蚁金服的实践》 @ GITC 2016
 * 《前端测试相关的主题》 @ D2 很久以前
