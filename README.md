@@ -37,6 +37,3 @@ You can find more on [GitHub](https://github.com/sorrycc).
 ## Contact
 
 * Email: sorrycc@gmail.com
-* Wechat
-
-<img src="https://cdn.nlark.com/yuque/0/2019/jpeg/86025/1561088301955-f17e197f-a098-497a-a17e-54e4ec7b8ba1.jpeg" width="120" />
