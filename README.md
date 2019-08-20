@@ -4,7 +4,7 @@
 
 My name is ChenCheng (陈成，花名云谦), an engineer at 支付宝（淘宝 5 年，支付宝 6 年）. Now I'm working on [umijs](https://umijs.org/) and [dvajs](https://dvajs.com/).
 
-<img src="https://cdn.nlark.com/yuque/0/2019/jpeg/86025/1566090154189-139c1ada-655d-40d3-b429-69d3313a6692.jpeg" width="300" />
+<img src="https://img.alicdn.com/tfs/TB1ia0HdHr1gK0jSZFDXXb9yVXa-1783-2675.jpg" width="300" />
 
 Here are a few links that might interest you:
 
