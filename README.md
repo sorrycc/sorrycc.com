@@ -9,7 +9,8 @@ My name is ChenCheng (陈成，花名云谦), an engineer at 支付宝（淘宝 
 Here are a few links that might interest you:
 
 * [My Blog](https://github.com/sorrycc/blog/issues)
-* [zaobao](https://github.com/sorrycc/zaobao/issues) - 前端早报，不定时更新。
+* [Zaobao](https://github.com/sorrycc/zaobao/issues) - 前端早报，不定时更新。
+* [Bilibili Channel](https://space.bilibili.com/27472034) - 技术 Vlog，不定时更新。
 * [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I am using.
 * [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - Awesome libraries I am watching.
 
