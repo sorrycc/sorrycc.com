@@ -8,10 +8,10 @@ My name is ChenCheng (陈成，花名云谦), an engineer at 支付宝（淘宝 
 
 Here are a few links that might interest you:
 
-* [My Blog](https://github.com/sorrycc/blog)
-* [zaobao](https://github.com/sorrycc/zaobao/issues) - 前端早报，不定时更新
-* [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I am using
-* [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - Awesome libraries I am watching
+* [My Blog](https://github.com/sorrycc/blog/issues)
+* [zaobao](https://github.com/sorrycc/zaobao/issues) - 前端早报，不定时更新。
+* [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I am using.
+* [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - Awesome libraries I am watching.
 
 ## Projects on Github
 
@@ -29,6 +29,7 @@ You can find more on [GitHub](https://github.com/sorrycc).
 
 ## Talks
 
+* 《插件、Umi、Dva 和未来》 @ 上海 Umi、Dva、AntD 社区会议 2019
 * [《蚂蚁金服的前端框架和工程化实践》](https://github.com/sorrycc/blog/issues/85) @ GMTC 2019
 * [《蚂蚁金服前端框架探索之路》](https://www.bilibili.com/video/av40319780/) @ SEEConf 2018
 * 《Dva: React 应用框架在蚂蚁金服的实践》 @ GITC 2016
@@ -37,3 +38,4 @@ You can find more on [GitHub](https://github.com/sorrycc).
 ## Contact
 
 * Email: sorrycc@gmail.com
+
