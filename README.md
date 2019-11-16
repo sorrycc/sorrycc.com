@@ -13,6 +13,7 @@ Here are a few links that might interest you:
 * [Bilibili Channel](https://space.bilibili.com/27472034) - 技术 Vlog，不定时更新。
 * [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I am using.
 * [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - Awesome libraries I am watching.
+* [ama](https://github.com/sorrycc/ama) - Ask me anything.
 
 ## Projects on Github
 
