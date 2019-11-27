@@ -2,7 +2,7 @@
   "scripts": {
     "start": "serve",
     "build": "node scripts/build.js",
-    "now-build": "echo empty build",
+    "now-build": "npm run build",
     "deploy": "npm run build && rm -rf yarn.lock && now && now alias"
   },
   "dependencies": {
