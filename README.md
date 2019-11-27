@@ -32,7 +32,7 @@ You can find more on [GitHub](https://github.com/sorrycc).
 ## Talks
 
 * 《可视化辅助编程在蚂蚁的探索之路》 @ 深圳 GMTC 2019.12
-* 《蚂蚁前端研发最佳实践》 @ 成都 Web 全栈大会 2019.11
+* [《蚂蚁前端研发最佳实践》](https://github.com/sorrycc/blog/issues/90) @ 成都 Web 全栈大会 2019.11
 * 《插件、Umi、Dva 和未来》 @ 上海 Umi、Dva、AntD 社区会议 2019.8
 * [《蚂蚁金服的前端框架和工程化实践》](https://github.com/sorrycc/blog/issues/85) @ GMTC 2019.6
 * [《蚂蚁金服前端框架探索之路》](https://www.bilibili.com/video/av40319780/) @ SEEConf 2018
