@@ -2,29 +2,28 @@
 
 ## Hi, I'm sorrycc
 
-My name is ChenCheng (陈成，花名云谦), an engineer at 支付宝（淘宝 5 年，支付宝 6 年）. Now I'm working on [umijs](https://umijs.org/) and [dvajs](https://dvajs.com/).
+My name is ChenCheng (陈成，花名云谦), an engineer at 支付宝（淘宝 5 年，支付宝 8 年）. Now I'm working on [umijs](https://umijs.org/).
 
-<img src="https://img.alicdn.com/tfs/TB1ia0HdHr1gK0jSZFDXXb9yVXa-1783-2675.jpg" width="300" />
+<img src="https://img.alicdn.com/tfs/TB1ia0HdHr1gK0jSZFDXXb9yVXa-1783-2675.jpg" width="250" />
 
 Here are a few links that might interest you:
 
 * [My Blog](https://github.com/sorrycc/blog/issues)
-* [Zaobao](https://github.com/sorrycc/zaobao/issues) - 前端早报，不定时更新。
+* [Zaobao](https://github.com/sorrycc/zaobao/issues) - 前端早报，不定时更新。 (deprecated)
 * [Bilibili Channel](https://space.bilibili.com/27472034) - 技术 Vlog，不定时更新。
 * [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I am using.
 * [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - Awesome libraries I am watching.
-* [ama](https://github.com/sorrycc/ama) - Ask me anything.
+* 公众号：<img src="https://img.alicdn.com/tfs/TB1TWFTukL0gK0jSZFxXXXWHVXa-1005-1164.jpg" width="120" />
+* [ama](https://github.com/sorrycc/ama) - Ask me anything. (deprecated)
 
 ## Projects on Github
 
 * [umi](https://github.com/umijs/umi) - Framework based on react, next.js like.
 * [dva](https://github.com/dvajs/dva) - Data flow library, based on redux.
-* [father](https://github.com/umijs/father)
-* [babel-plugin-import](https://github.com/ant-design/babel-plugin-import)
-* [roadhog](https://github.com/sorrycc/roadhog)
+* [father](https://github.com/umijs/father) - Component bundle tool based on rollup and babel.
+* [babel-plugin-import](https://github.com/ant-design/babel-plugin-import) - Modularly import plugin for babel.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-* [spm](https://github.com/spmjs/spm) (deprecated)
-* [dora](https://github.com/dora-js/dora) (deprecated)
+* [roadhog](https://github.com/sorrycc/roadhog) (deprecated)
 * [atool-build](https://github.com/ant-tool/atool-build) (deprecated)
 
 You can find more on [GitHub](https://github.com/sorrycc).
@@ -41,6 +40,5 @@ You can find more on [GitHub](https://github.com/sorrycc).
 
 ## Contact
 
-* Email: sorrycc@gmail.com
-* 公众号：<img src="https://img.alicdn.com/tfs/TB1TWFTukL0gK0jSZFxXXXWHVXa-1005-1164.jpg" width="120" />
+* Email: sorrycc#gmail.com
 
