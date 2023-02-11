@@ -607,7 +607,5 @@ Capture Area 的快捷键是「F19 + 6」。
 
 ## 参考
 
-- [[如何迁移数据到新 MBP]]
-- [[246 - 《装了啥 2023》]]
 - [Mac Setup for Web Development 2023](https://www.robinwieruch.de/mac-setup-web-development/)
 - [My 2021 New Mac Setup](https://www.swyx.io/new-mac-setup-2021)
